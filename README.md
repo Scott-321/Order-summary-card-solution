@@ -48,14 +48,14 @@ I used a Mobile-first workflow.
 
 ### What I learned
 
-I enjoyed practicing with max-width and min-width media queries.
+I enjoyed practicing max-width and min-width media queries.
 
 ### Continued development
 
-Flexbox tends to be my go-to layout tool for these small projects. This is because I learnt flexbox before Grid. As the challenges get harder and the layouts get 2 dimensional, I am looking forward to introducing grid into my workflow.  
+Flexbox tends to be my go-to layout tool for these small projects. This is because I learnt flexbox before Grid. As the challenges get harder and the layouts get 2 dimensional, I will introduce grid into my workflow.  
 
 I am really interested in making my CSS less repetitive, and easier to read/maintain. Recently, I have been reading about the BEM naming convention, which I will be incorporating in my future projects. 
 
 ## Author
 
-- Frontend Mentor - [@Scott-321](https://www.frontendmentor.io/profile/Scott-321)
+- Frontend Mentor - @Scott-321(https://www.frontendmentor.io/profile/Scott-321)
