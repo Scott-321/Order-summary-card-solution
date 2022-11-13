@@ -28,11 +28,6 @@ Your users should be able to:
 
 ![Screenshot](/images/Screenshot%20.jpg?raw=true)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 Before I started coding, I studied the Read me file and the design images. As the design needed to be responsive, I decided to use Flexbox to lay out the elements. This along with media queries, allowed me to reposition the flex-items, from column to row, to accommodate wider screen sizes. 
