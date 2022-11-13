@@ -26,7 +26,7 @@ Your users should be able to:
 
 ### Screenshot
 
-[Screenshot](.//images/Screenshot.jpg)
+![Screenshot](/images/Screenshot%20.jpg?raw=true)
 
 ### Links
 
