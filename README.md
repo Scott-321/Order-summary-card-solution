@@ -58,4 +58,4 @@ I am really interested in making my CSS less repetitive, and easier to read/main
 
 ## Author
 
-- Frontend Mentor - @Scott-321(https://www.frontendmentor.io/profile/Scott-321)
+- Frontend Mentor - [@Scott-321](https://www.frontendmentor.io/profile/Scott-321)
